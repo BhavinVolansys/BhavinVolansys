@@ -1,1 +1,2 @@
 Init test
+line added
